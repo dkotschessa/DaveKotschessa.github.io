@@ -18,13 +18,17 @@ https://github.com/dkotschessa/HaeffnersAutomationPracticeSite
 # Data Projects (Python)
 
 ## D4D Project
-[Data for Democracy](https://www.datafordemocracy.org/) 
-https://github.com/Data4Democracy/VA-open-data
-[This notebook](https://github.com/dkotschessa/VA-open-data/blob/master/VA-Data_Tools.ipynb)
+Awhile back I did a project for [Data for Democracy](https://www.datafordemocracy.org/)  trying to sort through VA datasets.  It was a great first attempt at data munging and I really enjoyed the project.  Currently the project is dormant - but I may use some of these tools for other projects in the future.  The repo is [here](https://github.com/Data4Democracy/VA-open-data) but 
+[This notebook](https://github.com/dkotschessa/VA-open-data/blob/master/VA-Data_Tools.ipynb) explains what I was doing.
 
-Watch this space!
+
+Watch this space! I'm currently doing some basic data analysis on local (Tampa) data and when I have something to say about it, I'll do so here.  
+
+
 
 # Social Media Contacts
 
-[Linkedid](https://www.linkedin.com/in/davekotschessa/)
+[Linkedin](https://www.linkedin.com/in/davekotschessa/)
+
+
 [Twitter](https://twitter.com/dkotschessa)
