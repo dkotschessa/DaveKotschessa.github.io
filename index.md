@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# David Kotschessa Almodovar
+### QA, Data science, mathematics
 
-You can use the [editor on GitHub](https://github.com/dkotschessa/DaveKotschessa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Test Automation (Selenium/C#)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Nikolay's Practice page
+Some time ago I took Nikolay Advolodkin's [Excellent Course](https://courses.ultimateqa.com/courses/selenium-with-c) On building a framework within Selenium/C#.  This repository contains sample code for automated testing of his [Ultimate QA Practice Page](https://www.ultimateqa.com/automation/)  
 
-### Markdown
+https://github.com/dkotschessa/UltimateQAAutomationPractice
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dave Haeffner's practice site (taking it up a notch)
+I'm just starting to write automation for [this site](Dave Haeffner) this site, which has some new challenges:
+https://github.com/dkotschessa/HaeffnersAutomationPracticeSite
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Data Projects (Python)
 
-**Bold** and _Italic_ and `Code` text
+## D4D Project
+[Data for Democracy](https://www.datafordemocracy.org/) 
+https://github.com/Data4Democracy/VA-open-data
+[This notebook](https://github.com/dkotschessa/VA-open-data/blob/master/VA-Data_Tools.ipynb)
 
-[Link](url) and ![Image](src)
-```
+Watch this space!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Social Media Contacts
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dkotschessa/DaveKotschessa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Linkedid](https://www.linkedin.com/in/davekotschessa/)
+[Twitter](https://twitter.com/dkotschessa)
